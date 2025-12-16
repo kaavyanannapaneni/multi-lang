@@ -1,0 +1,38 @@
+{
+  "User": "<1>{{UserName}}</1>",
+  "OrigamiName": "Origami de Bateau en Papier",
+  "subtitle": "Pliez un bateau en papier classique avec des étapes simples",
+
+  "nav": {
+    "materials": "Matériel",
+    "steps": "Étapes",
+    "tips": "Conseils"
+  },
+
+  "materialsTitle": "Matériel Nécessaire",
+  "materials": {
+    "paper": "Une feuille de papier rectangulaire (A4 convient bien)",
+    "surface": "Surface plane",
+    "enthusiasm": "Un peu d’enthousiasme"
+  },
+
+  "imageCaption": "Bateau en papier terminé",
+
+  "stepsTitle": "Instructions Étape par Étape",
+  "steps": {
+    "1": "Placez le papier verticalement et pliez-le en deux.",
+    "2": "Pliez les coins supérieurs vers l’intérieur pour former un triangle.",
+    "3": "Pliez les rabats inférieurs vers le haut des deux côtés.",
+    "4": "Ouvrez le triangle et aplatissez-le en carré.",
+    "5": "Pliez à nouveau les coins inférieurs vers le haut.",
+    "6": "Ouvrez et écartez les côtés pour former le bateau."
+  },
+
+  "tipsTitle": "Conseils Utiles",
+  "tips": {
+    "1": "Utilisez du papier légèrement épais pour une meilleure stabilité.",
+    "2": "Faites des plis nets pour une forme propre.",
+    "3": "Décorez le bateau après le pliage pour des designs amusants."
+  },
+  "builtWith": "Construit avec"
+}
