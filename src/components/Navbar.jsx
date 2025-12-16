@@ -23,9 +23,9 @@ const languages = [
 const NavbarComp = () => {
   const { t, i18n } = useTranslation()
   const [show, setShow] = useState(false)
-  const uname = t('User', {
-    UserName: 'John Doe',
-  })
+  // const uname = t('User', {
+  //   UserName: 'John Doe',
+  // })
   const handleClose = () => setShow(false)
   const handleShow = () => setShow(true)
 
@@ -47,7 +47,14 @@ const NavbarComp = () => {
           <Nav.Link onClick={handleShow}>
             <Image src={world} width={25} />
           </Nav.Link>
-          <Trans i18nKey={uname} components={{ 1: <b /> }} />
+          <Trans
+            // i18nKey={uname}
+            i18nKey='User'
+            components={{ 1: <b /> }}
+            values={{
+              UserName: 'John Doe',
+            }}
+          />
         </Nav>
         <Modal show={show} onHide={handleClose} className='w-100'>
           <Modal.Header closeButton className='border-0'>
