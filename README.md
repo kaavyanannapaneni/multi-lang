@@ -1,5 +1,8 @@
 # i18n multi language example
 
+Simple webpage to view multi language [es, en, fr, it, th] 
+feature implemented using react-i18n. 
+
 ## Tech
 - [i18n](https://www.i18next.com/)
 - [React-19.2.3](https://react.dev/)
@@ -7,7 +10,7 @@
 - [Vite-7.2.7](https://vite.dev/)
 
 ## Installation
-1. Clone repo
+1. Clone the repo
 ```bash
 git clone <repo>
 ```
@@ -19,10 +22,15 @@ cd <project-folder>
 ```bash
 npm install
 ```
-4. Run 
+4. Start the dev server 
 ```bash
 npm run dev 
 ```
+5. Access the application on a browser 
+```
+http://localhost:5173/
+```
+
 ## Deploying using github pages 
 
 1. gh-pages to publish gh-pages branch
@@ -61,3 +69,5 @@ export default defineConfig({
 - Fallback language support 
 - RTL, LTR 
 - Lazy loading, translation files 
+
+[Link](https://kaavyanannapaneni.github.io/multi-lang/)
