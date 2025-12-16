@@ -1,0 +1,38 @@
+{
+  "User": "<1>{{UserName}}</1>",
+  "OrigamiName": "Origami de Barco de Papel",
+  "subtitle": "Dobla un barco de papel clásico con pasos sencillos",
+
+  "nav": {
+    "materials": "Materiales",
+    "steps": "Pasos",
+    "tips": "Consejos"
+  },
+
+  "materialsTitle": "Materiales Necesarios",
+  "materials": {
+    "paper": "Una hoja rectangular de papel (A4 funciona bien)",
+    "surface": "Superficie plana",
+    "enthusiasm": "Un poco de entusiasmo"
+  },
+
+  "imageCaption": "Barco de papel terminado",
+
+  "stepsTitle": "Instrucciones Paso a Paso",
+  "steps": {
+    "1": "Coloca el papel verticalmente y dóblalo por la mitad.",
+    "2": "Dobla las esquinas superiores hacia adentro para formar un triángulo.",
+    "3": "Dobla las solapas inferiores hacia arriba por ambos lados.",
+    "4": "Abre el triángulo y aplánalo formando un cuadrado.",
+    "5": "Dobla las esquinas inferiores hacia arriba nuevamente.",
+    "6": "Abre y separa los lados para formar el barco."
+  },
+
+  "tipsTitle": "Consejos Útiles",
+  "tips": {
+    "1": "Usa papel ligeramente grueso para mayor estabilidad.",
+    "2": "Haz pliegues firmes para una forma más limpia.",
+    "3": "Decora el barco después de doblarlo para diseños divertidos."
+  },
+  "builtWith":"Construido con"
+}

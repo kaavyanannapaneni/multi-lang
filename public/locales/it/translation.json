@@ -1,0 +1,38 @@
+{
+  "User": "<1>{{UserName}}</1>",
+  "OrigamiName": "Origami di Barca di Carta",
+  "subtitle": "Piega una classica barca di carta con semplici passaggi",
+
+  "nav": {
+    "materials": "Materiali",
+    "steps": "Passaggi",
+    "tips": "Suggerimenti"
+  },
+
+  "materialsTitle": "Materiali Necessari",
+  "materials": {
+    "paper": "Un foglio di carta rettangolare (A4 va bene)",
+    "surface": "Superficie piana",
+    "enthusiasm": "Un po’ di entusiasmo"
+  },
+
+  "imageCaption": "Barca di carta completata",
+
+  "stepsTitle": "Istruzioni Passo per Passo",
+  "steps": {
+    "1": "Posiziona la carta verticalmente e piegala a metà.",
+    "2": "Piega gli angoli superiori verso l’interno per formare un triangolo.",
+    "3": "Piega le linguette inferiori verso l’alto su entrambi i lati.",
+    "4": "Apri il triangolo e appiattiscilo formando un quadrato.",
+    "5": "Piega di nuovo gli angoli inferiori verso l’alto.",
+    "6": "Apri e separa i lati per formare la barca."
+  },
+
+  "tipsTitle": "Suggerimenti Utili",
+  "tips": {
+    "1": "Usa carta leggermente spessa per una migliore stabilità.",
+    "2": "Fai pieghe precise per una forma pulita.",
+    "3": "Decora la barca dopo averla piegata per design divertenti."
+  },
+  "builtWith": "Costruito con"
+}

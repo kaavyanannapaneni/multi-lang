@@ -1,0 +1,38 @@
+{
+  "User": "<1>{{UserName}}</1>",
+  "OrigamiName": "Paper Boat Origami",
+  "subtitle": "Fold a classic paper boat using simple steps",
+
+  "nav": {
+    "materials": "Materials",
+    "steps": "Steps",
+    "tips": "Tips"
+  },
+
+  "materialsTitle": "Materials Needed",
+  "materials": {
+    "paper": "One rectangular sheet of paper (A4 works well)",
+    "surface": "Flat surface",
+    "enthusiasm": "Some enthusiasm"
+  },
+
+  "imageCaption": "Finished paper boat",
+
+  "stepsTitle": "Step-by-Step Instructions",
+  "steps": {
+    "1": "Place the paper vertically and fold it in half.",
+    "2": "Fold the top corners inward to form a triangle.",
+    "3": "Fold the bottom flaps upward on both sides.",
+    "4": "Open the triangle and flatten it into a square.",
+    "5": "Fold the bottom corners upward again.",
+    "6": "Open and pull the sides apart to form the boat."
+  },
+
+  "tipsTitle": "Helpful Tips",
+  "tips": {
+    "1": "Use slightly thick paper for better stability.",
+    "2": "Make sharp creases for a clean boat shape.",
+    "3": "Decorate the boat after folding for fun designs."
+  },
+  "builtWith": "Built with"
+}
