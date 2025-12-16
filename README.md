@@ -1,6 +1,6 @@
-# i18n example
+# i18n multi language example
 
-## Tools
+## Tech
 - [i18n](https://www.i18next.com/)
 - [React-19.2.3](https://react.dev/)
 - [React Bootstrap-2.10.10](https://react-bootstrap.netlify.app/)
@@ -9,14 +9,21 @@
 ## Installation
 ```bash
 git clone <repo>
+```
+```bash
 cd <project-folder>
+```
+```bash
 npm install
+```
+```bash
 npm run dev 
 ```
+
 ## i18n
 - Language switching
-- Static and dynamic text translation (Inerpolation)
+- Static and dynamic text translation (Interpolation)
 - Trans Component 
 - Fallback language support 
 - RTL, LTR 
-- Lazy loading translation files 
+- Lazy loading, translation files 

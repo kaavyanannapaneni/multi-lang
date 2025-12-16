@@ -10,13 +10,13 @@ i18n
   .init({
     debug: true,
     fallbackLng: 'en',
-    supportedLngs: ['en', 'fr', 'it', 'th', 'es'],
+    // supportedLngs: ['en', 'fr', 'it', 'th', 'es'],
     interpolation: {
       escapeValue: false,
     },
-    backend: {
-      loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}/translation.json`,
-    },
+    // backend: {
+    //   loadPath: `${import.meta.env.BASE_URL}locales/{{lng}}/translation.json`,
+    // },
   })
 
 export default i18n
