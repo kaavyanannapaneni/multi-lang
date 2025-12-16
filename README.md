@@ -13,12 +13,6 @@ cd <project-folder>
 npm install
 npm run dev 
 ```
-
-## Walkthrough 
-### Setup 
-- package.json for libraries 
-- src/i18n.js for i18n setup 
-
 ## i18n
 - Language switching
 - Static and dynamic text translation (Inerpolation)
